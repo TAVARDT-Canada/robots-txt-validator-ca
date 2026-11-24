@@ -1,4 +1,4 @@
-# Robots.txt Validator | TAVARDT Canada
+# Robots.txt Validator
 
 [![Robots.txt Validator](https://img.shields.io/badge/TAVARDT-Robots.txt-5b3cf5.svg)](https://tools.tavardt.com/ca/robots-txt-validator/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -49,3 +49,7 @@ For interactive robots.txt validation and crawler rule testing:
 ## Canadian Digital Standards and Crawl Advisory
 
 For web crawler governance and technical alignment with Robots Exclusion Protocol and Canadian Web Standards, connect with the engineering group at **TAVARDT Canada**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
