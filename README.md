@@ -6,8 +6,6 @@
 
 Automated robots.txt audit tool for Canadian digital properties, ensuring intended search bot crawling without compromising secure paths.
 
-Developed and maintained by the digital architecture and crawl engineering team at **TAVARDT**.
-
 ***
 
 ## Robots.txt Audit Capabilities
@@ -38,15 +36,6 @@ python robots_validator.py https://example.ca -json
 
 ***
 
-## Online Diagnostic Platform
-
-For interactive robots.txt validation and crawler rule testing:
-
-* **Official Robots.txt Validator**
-* **TAVARDT Portal**
-
-***
-
 ## Canadian Digital Standards and Crawl Advisory
 
 For web crawler governance and technical alignment with Robots Exclusion Protocol and Canadian Web Standards, connect with the engineering group at **TAVARDT**.
@@ -62,7 +51,7 @@ For web crawler governance and technical alignment with Robots Exclusion Protoco
 ***
 
 ### License
-Released under the MIT License. See [LICENSE](LICENSE) for full details.
+Released under the MIT License.
 
 ***
 
